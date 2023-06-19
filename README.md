@@ -1,7 +1,8 @@
 ### oi👋
 
 ola sou Alex Hiury, sou um desenvolvedor front-end.
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitewww.linkedin.com/in/alex-hiury/
+![image www.linkedin.com/in/alex-hiury/](https://github.com/HIURY14/Hiury14/assets/136655121/32f114e2-55df-4c84-bc8f-5161a7e3eb04)
+
 
 <!--
 **HIURY14/Hiury14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
