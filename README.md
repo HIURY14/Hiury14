@@ -2,7 +2,7 @@
 
 ola sou Alex Hiury, sou um desenvolvedor front-end.
 
-![image](https://github.com/HIURY14/Hiury14/assets/136655121/26fcd872-e749-49e3-a9a4-b45eca9d3559)
+![image](https://github.com/HIURY14/Hiury14/assets/136655121/26fcd872-e749-49e3-a9a4-b45eca9d3559 www.linkedin.com/in/alex-hiury/)
 
 
 <!--
