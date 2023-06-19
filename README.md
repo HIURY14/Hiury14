@@ -1,5 +1,5 @@
 ### oi👋
-
+ola sou Alex Hiury, sou um desenvolvedor front-end
 <!--
 **HIURY14/Hiury14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
