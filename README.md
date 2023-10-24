@@ -1,7 +1,7 @@
 ### oi👋
 
 ola sou Alex Hiury, sou um desenvolvedor front-end.
-é aqui que passo boa parte do meu tempo, trabalhando no que posso melhorar mais.
+é aqui que passo boa parte do meu tempo trabalhando no que posso melhorar mais.
 
 
 - 🔭 hoje trabalho como freelancer adiquirindo mais experincia na are de front-end.
