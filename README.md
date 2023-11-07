@@ -1,6 +1,6 @@
 ### oi👋
 
-ola sou Alex Hiury, sou um desenvolvedor front-end.
+ola, sou Alex Hiury sou um desenvolvedor front-end.
 é aqui que passo boa parte do meu tempo trabalhando no que posso melhorar mais.
 
 
